@@ -2,16 +2,14 @@
 
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** Mae K 
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Issue:** [[GitHub issue link] ] (https://github.com/GraphiteEditor/Graphite/issues/3862)
+**Status:** [Phase I] [In Progress]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
-
----
+Graphite is a 2D graphics and vector editor! As an artist myself, I really want to develop and improve tools for fellow artists. This particular issue is something I can wrap my head around and define in clear terms. While working with images and bounding boxes is not something I have done before, I think I can learn a lot and fix the issue in 3-4 weeks! While I have lots of experience working with vector editors as user, I hope to learn more about the development side through this contribution. Graphite also is primarily built with Rust, a language I've hope to become more familiar with!
 
 ## Understanding the Issue
 

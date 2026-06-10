@@ -2,7 +2,7 @@
 
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** Mae K 
-**Issue:** [[GitHub issue link] ] (https://github.com/GraphiteEditor/Graphite/issues/3862)
+**Issue:** https://github.com/GraphiteEditor/Graphite/issues/3862
 **Status:** [Phase I] [In Progress]
 
 ---
